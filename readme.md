@@ -5,6 +5,8 @@
 
 [ref](https://pranabdas.github.io/espresso/setup/install/)
 
+[Quantum_Espresso_Colab ref](https://github.com/sedaoturak/Quantum_Espresso_Colab)
+
 ```linux
 sudo apt update && sudo apt upgrade
 
