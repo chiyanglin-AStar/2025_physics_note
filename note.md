@@ -6,9 +6,9 @@
 
 - [Materials-for-MaX-CoE-ENCCS-workshop-2022](https://gitlab.com/QEF/materials-for-max-coe-enccs-workshop-2022.git)
 
-- []()
+- [Material for Ljubljana QE summer school 2019](https://gitlab.com/QEF/material_ncc_czechia_qe_school)
 
-- []()
+- [Material for the MaX NCC Czechia QE-2024 online school](https://gitlab.com/QEF/material_ncc_czechia_qe_school.git)
 
 - []()
 
