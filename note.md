@@ -15,3 +15,23 @@
 - []()
 
 - []()
+
+## ASE & Quantum Espresso installation
+- [Quantum Espresso installation](https://pranabdas.github.io/espresso/setup/install)
+
+- [ase install](https://wiki.fysik.dtu.dk/ase/install.html)
+
+```shell
+pip install --upgrade ase
+
+pip install --upgrade ase[test]
+
+pip install ase quantum-espresso
+
+```
+```shell
+
+sudo apt update && sudo apt upgrade
+
+sudo apt install --no-install-recommends   libfftw3-dev quantum-espresso
+```
