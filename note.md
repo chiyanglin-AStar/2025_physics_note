@@ -27,11 +27,14 @@ pip install --upgrade ase
 pip install --upgrade ase[test]
 
 pip install ase quantum-espresso
-
 ```
 ```shell
-
 sudo apt update && sudo apt upgrade
 
 sudo apt install --no-install-recommends   libfftw3-dev quantum-espresso
+```
+### ASE test
+
+```shell
+ase test  # takes 1 min.
 ```
