@@ -21,6 +21,8 @@
 
 - [ase install](https://wiki.fysik.dtu.dk/ase/install.html)
 
+- [ase install 2](https://pypi.org/project/ase/)
+
 ```shell
 pip install --upgrade ase
 
