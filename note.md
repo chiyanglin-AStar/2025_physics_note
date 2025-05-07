@@ -25,6 +25,10 @@
 
 - [ase Tutorials](https://wiki.fysik.dtu.dk/ase/tutorials/tutorials.html)
 
+- [Hands-on • Quantum Espresso Tutorial](https://pranabdas.github.io/espresso/category/hands-on/)
+
+- [Quantum Espresso Tutorial ref.](https://pranabdas.github.io/espresso/category/hands-on/)
+
 ```shell
 pip install --upgrade ase
 
