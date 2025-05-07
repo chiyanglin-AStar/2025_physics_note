@@ -38,3 +38,28 @@ sudo apt install --no-install-recommends   libfftw3-dev quantum-espresso
 ```shell
 ase test  # takes 1 min.
 ```
+
+```python
+from ase import Atoms
+from ase.optimize import BFGS
+from ase.calculators.nwchem import NWChem
+from ase.io import write
+h2 = Atoms('H2',positions=[[0, 0, 0],[0, 0, 0.7]])
+h2.calc = NWChem(xc='PBE')
+opt = BFGS(h2, trajectory='h2.traj')
+opt.run(fmax=0.02)
+```
+
+```python
+from ase.build import bulk
+from ase.visualize import view
+
+# 建立冰 Ih 的六方晶系結構 (簡化模型)
+# 實際研究中會使用更大的超胞
+a = 4.5  # Å
+c = 7.3  # Å
+ice = bulk('H2O', 'ice', a=a, c=c)
+
+# 查看結構 (需要安裝 ASE GUI)
+view(ice)
+```
