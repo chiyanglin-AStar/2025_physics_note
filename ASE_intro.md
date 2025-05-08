@@ -1,4 +1,4 @@
-## ASE is an ***Atomic Simulation Environment*** written in the Python programming language with the aim of setting up, steering, and analyzing atomistic simulations. The ASE has been constructed with a number of “design goals” that make it:
+## ASE is an [***Atomic Simulation Environment***](https://wiki.fysik.dtu.dk/ase/about.html) written in the Python programming language with the aim of setting up, steering, and analyzing atomistic simulations. The ASE has been constructed with a number of “design goals” that make it:
 
 ### Easy to use:
 
