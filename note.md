@@ -31,6 +31,8 @@
 
 - [ASE sources gitlab](https://gitlab.com/ase/ase.git)
 
+- [ASE Calculator](https://wiki.fysik.dtu.dk/ase/ase/calculators/calculators.html)
+
 ### ASE examples:
 ```shell
 pip install --upgrade ase
