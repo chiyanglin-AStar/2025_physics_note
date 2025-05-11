@@ -93,7 +93,3 @@ from ase.visualize import view
 a = 4.5  # Å
 c = 7.3  # Å
 ice = bulk('H2O', 'ice', a=a, c=c)
-
-# 查看結構 (需要安裝 ASE GUI)
-view(ice)
-```
